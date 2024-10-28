@@ -1,0 +1,5 @@
+name: melos_test
+
+packages:
+  - apps/**
+  - packages/**
