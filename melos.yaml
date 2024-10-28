@@ -3,3 +3,7 @@ name: melos_test
 packages:
   - apps/**
   - packages/**
+
+scripts:
+  analyze:
+    exec: dart analyze .
