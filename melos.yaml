@@ -7,3 +7,7 @@ packages:
 scripts:
   analyze:
     exec: dart analyze .
+
+command:
+  version:
+    branch: main
