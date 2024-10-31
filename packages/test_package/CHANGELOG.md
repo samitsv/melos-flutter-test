@@ -1,3 +1,7 @@
+## 1.2.1
+
+ - **FIX**: minor fix.
+
 ## 1.2.0
 
  - **FEAT**: update function BREAKING CHANGE:update calculate function.
