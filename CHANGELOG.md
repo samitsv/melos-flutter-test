@@ -11,6 +11,27 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`test_package` - `v2.0.0`](#test_package---v200)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `test_package` - `v2.0.0`
+
+ - **BREAKING** **FEAT**: new calc func.
+
+
+## 2024-10-31
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - There are no breaking changes in this release.
 
 Packages with other changes:

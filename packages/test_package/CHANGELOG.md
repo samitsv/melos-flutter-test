@@ -1,3 +1,9 @@
+## 2.0.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**: new calc func.
+
 ## 1.2.1
 
  - **FIX**: minor fix.
