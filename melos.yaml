@@ -19,6 +19,5 @@ command:
     hooks:
       pre: echo '---- Pre-bootstrap ----'
       post: echo '---- Post-bootstrap ----'
-    # exec: dart analyze .
   version:
     branch: main
