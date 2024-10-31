@@ -1,3 +1,7 @@
+## 1.2.0
+
+ - **FEAT**: update function BREAKING CHANGE:update calculate function.
+
 ## 1.1.0
 
  - **FEAT**: update to v1.0.2.

@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test_package` - `v1.2.0`](#test_package---v120)
+
+---
+
+#### `test_package` - `v1.2.0`
+
+ - **FEAT**: update function BREAKING CHANGE:update calculate function.
+
+
+## 2024-10-31
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test_package` - `v1.1.0`](#test_package---v110)
 
 ---
