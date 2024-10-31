@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`test_package` - `v1.1.0`](#test_package---v110)
+
+---
+
+#### `test_package` - `v1.1.0`
+
+ - **FEAT**: update to v1.0.2.
+
+
+## 2024-10-31
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`test_package` - `v1.0.1`](#test_package---v101)
 
 ---
